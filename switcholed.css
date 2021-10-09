@@ -1,5 +1,8 @@
+*/playing around with flex box */
+
 * {
   background-color: white;
+  display: flex;
 }
 
 h1 {
